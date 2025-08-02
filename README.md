@@ -15,7 +15,7 @@ Currently learning and building Full-Stack applications using **React** & **.NET
 
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://az.linkedin.com/in/ilqar-aliyev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilqar-aliyev-243686373/)
 
 <br/>
 
