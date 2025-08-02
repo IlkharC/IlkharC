@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ilkhar</h1>
-<h3 align="center">A passionate backend developer from Azerbaijan</h3>
+## 👋 Hi there, I'm İlqar!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm a passionate developer from Azerbaijan 🇦🇿  
+Currently learning and building Full-Stack applications using **React** & **.NET** 
+
+### 💻 Tech Stack:
+- 🌐 Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite
+- 🖥️ Backend: C#, async/await, EF Core, MSSQL
+
+
+### 🔥 Featured Projects:
+- [WatcHome24](https://github.com/IlkharC/WatcHome24) – FullStack watch store with React & .NET
+
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://az.linkedin.com/in/ilqar-aliyev/)
+
+<br/>
+
+![Ilqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlkharC&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlkharC&layout=compact&theme=github_dark)
