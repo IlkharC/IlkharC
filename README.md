@@ -3,6 +3,8 @@
 I'm a passionate developer from Azerbaijan 🇦🇿  
 Currently learning and building Full-Stack applications using **React** & **.NET** 
 
+<br/>
+
 ### 💻 Tech Stack:
 - 🌐 Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite
 - 🖥️ Backend: C#, async/await, EF Core, MSSQL
