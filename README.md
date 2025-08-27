@@ -7,7 +7,7 @@ Currently learning and building Full-Stack applications using **React** & **.NET
 
 ### 💻 Tech Stack:
 - 🌐 Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite
-- 🖥️ Backend: C#, async/await, EF Core, MSSQL
+- 🖥️ Backend: ASP.NET, C#, EF Core, MSSQL
 
 
 ### 🔥 Featured Projects:
